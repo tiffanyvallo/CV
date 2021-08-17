@@ -97,11 +97,11 @@ Throughout my time at Makers, I was able to learn new languages and use a number
 
 #### Problem Solving
 
-- Working in the NHS, you are faced with a wide range of queries on a daily basis. I have been faced with queries from finding out appointment dates, to figuring out staff's pay, and everytime I have been able to investigate and solve all these issues. Being also helped with finding different solutions on how you can tackle the problem in front of you.
+- Working in the NHS, you are faced with a wide range of queries on a daily basis. I have been faced with queries from finding out appointment dates, to figuring out staff's pay, and everytime I have been able to investigate and solve all these issues. Being also helped with finding different solutions on how you can tackle the problem in front of you. At Makers, trying to figure out how to debugging was a good problem solving challenge, and it became really fun trying to think of different approaches to solve the errors I would get in my coding.
 
 #### Teamwork
 
-- All my previous job roles entailed me working within a team. From this I have been able to learn that relying on each other to complete tasks is crucial. Whether it is covering a colleagues workload when they are on leave, or informing one another which stage you have reached in terms of a patient's records. Organisation and communication also help in ensuring everyone on the team is able to do their work and allow for a smooth workflow. I found that I really excelled and enjoyed contributing to group projects during the Makers course.
+- All my previous job roles entailed me working within a team. From this I have been able to learn that relying on each other to complete tasks is crucial. Whether it is covering a colleague's workload when they are on leave, or informing one another which stage you have reached in terms of a patient's records. Organisation and communication also help in ensuring everyone on the team is able to do their work and allow for a smooth workflow. I found that I really excelled and enjoyed contributing to group projects during the Makers course.
 
 #### Attention to detail
 
@@ -109,11 +109,13 @@ Throughout my time at Makers, I was able to learn new languages and use a number
 
 #### Adaptable
 
-- Throughout Makers I had to learn new languages and testing frameworks in an efficient manner all while building applications. This was challenging but allowed me to rise to the occasion and get a feel for how as a developer, you need to be comfortable with change and learning to adapt to whatever situation is given to you. With new pairing programming sessions daily, different teams and new challenges weekly, I was able to push myself to learn to adapt and help create good team dynamics to allow us to create the best application we could produce.  
+- As I had previously worked in the NHS, the nature of the job was always fast, and so I have been able to adapt to the ever changing needs of the department and the patients, to ensure that all day to day operations would run smoothly. Throughout Makers I had to learn new languages and testing frameworks in an efficient manner all while building applications. This was challenging but allowed me to rise to the occasion and get a feel for how as a developer, you need to be comfortable with change and learning to adapt to whatever situation is given to you. With new pairing programming sessions daily, different teams and new challenges weekly, I was able to push myself to learn to adapt and help create good team dynamics to allow us to create the best application we could produce.  
 
 #### Learning New Concepts
 
 - Makers have allowed me to rapidly pick up the skill and techniques to learn new concepts. During a two week period,  I was able to learn JavaScript and a new testing framework, all while trying to create a thermostat and notes application. This approach has helped me with my understanding and confidence of how to pick up new languages efficiently. Also throughout the whole course, we were given new concepts on how to write, understand and improve our code weekly. This was helpful as it allowed me to effectively figure out how to improve as a developer. 
+
+
 ## Experience
   
 **Makers** 

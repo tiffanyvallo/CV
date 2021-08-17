@@ -112,11 +112,89 @@ Throughout my time at Makers, I was able to learn new languages and use a number
 - Throughout Makers I had to learn new languages and testing frameworks in an efficient manner all while building applications. This was challenging but allowed me to rise to the occasion and get a feel for how as a developer, you need to be comfortable with change and learning to adapt to whatever situation is given to you. With new pairing programming sessions daily, different teams and new challenges weekly, I was able to push myself to learn to adapt and help create good team dynamics to allow us to create the best application we could produce.  
 
 ## Experience
+  
+**Makers** March 2021 – June 2021
+_Full Stack Junior Software Engineer_
 
-**St Georges Universitys NHS Trust** (October 2014 to March 2021)  
-_A breadth of experience in a number of administrative roles_
+- Innovative and eager to develop
+- Accountability and ownership of own learning
+- Hard working and efficient
+- Ability to work in harmony with colleagues for group projects and pair programming 
+- sessions using agile methodologies and xp values
+- Use feedback given from coaches, peers and reviews to improve coding
+- Code using a TDD approach
+- Learn new languages quickly and effectively
 
-- I have a background in psychology with experience in data management, service operations and recruitment. After working as a successful data manager for the NHS in demanding and time pressured roles, I have been able to gain a range of analytical and decisive skills that will enable my expansion and growth into new endeavours. Working hard with efficiency, along with having a friendly and approachable persona are traits I believe are important to my work ethic; enabling me to carry out and delegate tasks, meet deadlines all while building positive relationships with my colleagues. 
+
+**Neuroradiology Department (St George's Hospital)** Feb 2020 – March 2021
+_Medical Secretary/Patient Pathway Coordinator_
+
+- Excellent communication and organisational skill
+- Operations management
+- Ability to help department continue to run even during the covid pandemic
+- Adapts to change quickly
+- Ability to work in harmony with co-workers
+
+
+**Paediatric Respiratory (St George’s Hospital)** Dec 2018 – October 2019
+_Data Manager_
+
+- Clam and decisive under pressure
+- Determination and persistence
+- Highly organised and detailed-oriented
+- Developing and maintaining all databases within the department
+- Initiative to work individually and as a team
+- Created new methodology to help with efficient running of clinics
+
+**Looked After Children's Health Team (St George’s Hospital)** Apr 2018 – Feb 2020
+_Looked After Children's Administrator_
+
+- Analyse monthly Key Performance Indicators 
+- Operations management
+- Communication with different departments
+- Takes initiative
+- Organising systems that allowed patients to be seen before their breach dates
+- Great time management with an understanding of a sense of urgency
+- Attention to sensitive data and ensuring patient confidentiality is not broken
+
+**General Paediatric Medicine (St George’s Hospital)** Dec 2017 – Apr 2018
+_Medical Secretary_
+
+- Excellent time management in ensuring all documentations was recorded and sent out efficiently
+- Exceptional verbal and face-to-face customer service
+- Ability to work autonomously and still be able to help with team tasks when needed
+
+**Divisional Director of Operations (St George’s Hospital)** Feb 2017 – Dec 2017
+_Personal Assistant_
+
+- Highly organised and detailed-oriented
+- Adapts to change quickly
+- Ability to work under senior members of staff
+- Communicate and liaise with members of staff from various seniority levels.
+
+**Staff Bank Recruitment (St George’s Hospital)** Apr 2016 – Feb 2017
+_Recruitment Team_
+
+- Determination and persistence
+- Ability to work in harmony with co-workers
+- Attention to detail and ensure correct paperwork is filled out and submitted
+- Handle complaints and find solutions to these
+
+**Courtyard Clinic (St George’s Hospital)** Nov 2015 – Apr 2016 
+_Receptionist_
+
+- Ability to work in harmony with co-workers
+- Sensitivity to patient information and confidentiality
+- Responsibility in ensuring efficient running of daily clinics
+- Organising and preparing clinics for the week
+
+**Information Team (St George’s Hospital)** Oct 2014 – Nov 2015 
+_Assistant Data Analyst_
+
+- Excellent transferrable analytical skills
+- Close attention to detail 
+- Extracting correct data for different departments
+- Work in tight timeframes to ensure all relevant data for different meetings were provided
 
 ## Education
 

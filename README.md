@@ -111,6 +111,9 @@ Throughout my time at Makers, I was able to learn new languages and use a number
 
 - Throughout Makers I had to learn new languages and testing frameworks in an efficient manner all while building applications. This was challenging but allowed me to rise to the occasion and get a feel for how as a developer, you need to be comfortable with change and learning to adapt to whatever situation is given to you. With new pairing programming sessions daily, different teams and new challenges weekly, I was able to push myself to learn to adapt and help create good team dynamics to allow us to create the best application we could produce.  
 
+#### Learning New Concepts
+
+- Makers have allowed me to rapidly pick up the skill and techniques to learn new concepts. During a two week period,  I was able to learn JavaScript and a new testing framework, all while trying to create a thermostat and notes application. This approach has helped me with my understanding and confidence of how to pick up new languages efficiently. Also throughout the whole course, we were given new concepts on how to write, understand and improve our code weekly. This was helpful as it allowed me to effectively figure out how to improve as a developer. 
 ## Experience
   
 **Makers** March 2021 – June 2021

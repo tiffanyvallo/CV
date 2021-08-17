@@ -116,7 +116,9 @@ Throughout my time at Makers, I was able to learn new languages and use a number
 - Makers have allowed me to rapidly pick up the skill and techniques to learn new concepts. During a two week period,  I was able to learn JavaScript and a new testing framework, all while trying to create a thermostat and notes application. This approach has helped me with my understanding and confidence of how to pick up new languages efficiently. Also throughout the whole course, we were given new concepts on how to write, understand and improve our code weekly. This was helpful as it allowed me to effectively figure out how to improve as a developer. 
 ## Experience
   
-**Makers** March 2021 – June 2021
+**Makers** 
+(March 2021 – June 2021)
+
 _Full Stack Junior Software Engineer_
 
 - Innovative and eager to develop
@@ -129,7 +131,9 @@ _Full Stack Junior Software Engineer_
 - Learn new languages quickly and effectively
 
 
-**Neuroradiology Department (St George's Hospital)** Feb 2020 – March 2021
+**Neuroradiology Department (St George's Hospital)** 
+(Feb 2020 – March 2021)
+
 _Medical Secretary/Patient Pathway Coordinator_
 
 - Excellent communication and organisational skill
@@ -139,7 +143,9 @@ _Medical Secretary/Patient Pathway Coordinator_
 - Ability to work in harmony with co-workers
 
 
-**Paediatric Respiratory (St George’s Hospital)** Dec 2018 – October 2019
+**Paediatric Respiratory (St George’s Hospital)** 
+(Dec 2018 – October 2019)
+
 _Data Manager_
 
 - Clam and decisive under pressure
@@ -149,7 +155,9 @@ _Data Manager_
 - Initiative to work individually and as a team
 - Created new methodology to help with efficient running of clinics
 
-**Looked After Children's Health Team (St George’s Hospital)** Apr 2018 – Feb 2020
+**Looked After Children's Health Team (St George’s Hospital)** 
+(Apr 2018 – Feb 2020)
+
 _Looked After Children's Administrator_
 
 - Analyse monthly Key Performance Indicators 
@@ -160,14 +168,18 @@ _Looked After Children's Administrator_
 - Great time management with an understanding of a sense of urgency
 - Attention to sensitive data and ensuring patient confidentiality is not broken
 
-**General Paediatric Medicine (St George’s Hospital)** Dec 2017 – Apr 2018
+**General Paediatric Medicine (St George’s Hospital)** 
+(Dec 2017 – Apr 2018)
+
 _Medical Secretary_
 
 - Excellent time management in ensuring all documentations was recorded and sent out efficiently
 - Exceptional verbal and face-to-face customer service
 - Ability to work autonomously and still be able to help with team tasks when needed
 
-**Divisional Director of Operations (St George’s Hospital)** Feb 2017 – Dec 2017
+**Divisional Director of Operations (St George’s Hospital)** 
+(Feb 2017 – Dec 2017)
+
 _Personal Assistant_
 
 - Highly organised and detailed-oriented
@@ -175,7 +187,9 @@ _Personal Assistant_
 - Ability to work under senior members of staff
 - Communicate and liaise with members of staff from various seniority levels.
 
-**Staff Bank Recruitment (St George’s Hospital)** Apr 2016 – Feb 2017
+**Staff Bank Recruitment (St George’s Hospital)** 
+(Apr 2016 – Feb 2017)
+
 _Recruitment Team_
 
 - Determination and persistence
@@ -183,7 +197,9 @@ _Recruitment Team_
 - Attention to detail and ensure correct paperwork is filled out and submitted
 - Handle complaints and find solutions to these
 
-**Courtyard Clinic (St George’s Hospital)** Nov 2015 – Apr 2016 
+**Courtyard Clinic (St George’s Hospital)** 
+(Nov 2015 – Apr 2016) 
+
 _Receptionist_
 
 - Ability to work in harmony with co-workers
@@ -191,7 +207,9 @@ _Receptionist_
 - Responsibility in ensuring efficient running of daily clinics
 - Organising and preparing clinics for the week
 
-**Information Team (St George’s Hospital)** Oct 2014 – Nov 2015 
+**Information Team (St George’s Hospital)** 
+(Oct 2014 – Nov 2015)
+
 _Assistant Data Analyst_
 
 - Excellent transferrable analytical skills

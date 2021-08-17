@@ -1,97 +1,18 @@
 ## Tiffany Vallo
 
- | [Projects](#projects) | [Technical Knowledge](#technical-knowledge) | [Experience](#experience) | [Skills](#skills) | [Education](#education) |  [Interests](#interests) | [Contact](#contact) |
+ | [Projects](#projects) | [Skills](#skills) | [Experience](#experience)  | [Education](#education) |  [Interests](#interests) | [Contact](#contact) |
 
 I am an aspiring Junior Developer. After my whole working life in the NHS, I decided to switch career paths and pursue a career that I would find more fulfilling and satisfying. The tech industry is continuously changing, I find that everyday is a new and exciting challenge that I am eager to take on. 
 
 ## Projects
 
-[Shuttr](https://github.com/tiffanyvallo/cyber_playground)
-<br />
-Have you ever wanted to take amazing photos but don’t know where to go to take them? We have the solution for you.
-We wanted to build an innovative app for the creatives who love to take aesthetic photos but don’t know where the prime locations are. 
-Shutter allows users to build a community where they can discover pins around London, explore hashtags you are interested in, run location searches, share your own photos and view other pins on a map. 
-
-[MakersBnb](https://github.com/tiffanyvallo/in_the_airbnb_tonight)
-<br />
-Created a web application clone of AirBnb that allows users to list spaces they have available and to hire spaces for the night.  
-
-[Chitter](https://github.com/tiffanyvallo/chitter-challenge)
-<br />
-Built a clone of Twitter that allows users to sign up, login, log out and create and view peeps.
-
-[Notes App](https://github.com/tiffanyvallo/thermostat)
-<br />
-Build a single-page web application using pure Javascript that allows users to create notes and see each note individually. Created our own testing framework to allow us to TDD this process and used an external API to integrate the use of emojis.
-
-[Thermostat](https://github.com/tiffanyvallo/thermostat)
-<br />
-Create a web application that uses a dynamic visual interface using the browser's DOM functions, and use Javascript to fetch data from an API and display the information on the webpage.
-
-## Technical Knowledge
-Throughout my time at Makers, I was able to learn new languages and use a number of technologies which I have applied to a number of my projects.
-<table>
-  <thead>
-    <tr>
-      <th>Concepts</th>
-      <th>Languages</th>
-      <th>Technologies</th>
-      <th>Testing Frameworks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="vertical-align: top">
-        <ul>
-          <li>BDD and TDD</li>
-          <li>Code reviews</li>
-          <li>Developer workflow</li>
-          <li>Domain Modelling</li>
-          <li>Encapsulation</li>
-          <li>Git workflow</li> 
-          <li>Mentoring</li>
-          <li>Minimum Viable Product</li>
-          <li>MVC Model</li>
-          <li>Pair programming</li>
-          <li>Presentations</li>
-          <li>Remote working</li>
-          <li>RESTful APIs</li>
-          <li>XP/Agile methodology</li>          
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>JavaScript</li>
-          <li>React</li>
-          <li>Ruby</li>
-          <li>Ruby on Rails</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>CSS3</li>
-          <li>Git</li>
-          <li>HTML</li>
-          <li>MongoDB</li>
-          <li>PostgreSQL</li>
-          <li>Sinatra</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>Capybara</li>
-          <li>Express</li>
-          <li>Jest</li>
-          <li>Jasmine</li>
-          <li>Node</li>
-          <li>RSpec</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
+| Project   | Description | Timeframe | Technologies |
+|-----------|-------------|-----------|--------------|
+| [shuttr](https://github.com/tiffanyvallo/shuttr)|Built an innovative app for the creatives who love to take aesthetic photos but did not know where the prime locations were. Created using a MERN tech stack | 2 weeks |MongoDB, Express, React, Node.js, CSS, HTML, APIs (Google Maps,Mapbook,React Map GL,Cloudinary,Unsplash), Material-Ui, Passport.js, BCrypt, Yarn|
+| [MakersBnB](https://github.com/tiffanyvallo/in_the_airbnb_tonight)|Created a full-stack web application clone of AirBnb in a group of four, that allows users to list spaces they have available and to hire spaces for the night. | 1 week | Ruby, Rspec, HTML, CSS, PostgreSQL, Sinatra, Capybara|
+| [Chitter](https://github.com/tiffanyvallo/chitter-ruby)| Built a clone of Twitter that allows users to sign up, login, log out and create and view peeps. | 2 days | Ruby, Rspec, HTML, CSS, PostgreSQL, Sinatra, Capybara|
+| [Notes](https://github.com/tiffanyvallo/notesApp)|Built a single-page web application using vanilla Javascript that allows users to create notes and see each note individually. Created our own testing framework to allow us to TDD this process and used an external API to integrate the use of emojis.| 1 week | Javascript, Http server, HTML, CSS, Self-made testing framework |
+| [BankTechTest](https://github.com/tiffanyvallo/bankTechTest)| Created a bank account that users can interact with using Node. Users are able to deposit, withdraw, view balance and print a statement of their transactions | 3 days | Javascript, Jest, HTML|
 
 ## Skills
 

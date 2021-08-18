@@ -41,8 +41,8 @@ I am an aspiring Junior Developer. After my whole working life in the NHS, I dec
 ## Experience
   
 #### Makers
+*Full Stack Junior Software Engineer*
 (March 2021 – June 2021)
-_Full Stack Junior Software Engineer_
 
 - Innovative and eager to develop
 - Accountability and ownership of own learning
@@ -55,8 +55,8 @@ _Full Stack Junior Software Engineer_
 
 
 #### Neuroradiology Department (St George's Hospital) 
-(Feb 2020 – March 2021)
 _Medical Secretary/Patient Pathway Coordinator_
+(Feb 2020 – March 2021)
 
 - Excellent communication and organisational skill
 - Operations management
@@ -66,8 +66,8 @@ _Medical Secretary/Patient Pathway Coordinator_
 
 
 #### Paediatric Respiratory (St George’s Hospital)
-(Dec 2018 – October 2019)
 _Data Manager_
+(Dec 2018 – October 2019)
 
 - Clam and decisive under pressure
 - Determination and persistence
@@ -77,8 +77,8 @@ _Data Manager_
 - Created new methodology to help with efficient running of clinics
 
 #### Looked After Children's Health Team (St George’s Hospital)
-(Apr 2018 – Feb 2020)
 _Looked After Children's Administrator_
+(Apr 2018 – Feb 2020)
 
 - Analyse monthly Key Performance Indicators 
 - Operations management
@@ -89,16 +89,16 @@ _Looked After Children's Administrator_
 - Attention to sensitive data and ensuring patient confidentiality is not broken
 
 #### General Paediatric Medicine (St George’s Hospital)
-(Dec 2017 – Apr 2018)
 _Medical Secretary_
+(Dec 2017 – Apr 2018)
 
 - Excellent time management in ensuring all documentations was recorded and sent out efficiently
 - Exceptional verbal and face-to-face customer service
 - Ability to work autonomously and still be able to help with team tasks when needed
 
 #### Divisional Director of Operations (St George’s Hospital)
-(Feb 2017 – Dec 2017)
 _Personal Assistant_
+(Feb 2017 – Dec 2017)
 
 - Highly organised and detailed-oriented
 - Adapts to change quickly
@@ -106,8 +106,8 @@ _Personal Assistant_
 - Communicate and liaise with members of staff from various seniority levels.
 
 #### Staff Bank Recruitment (St George’s Hospital) 
-(Apr 2016 – Feb 2017)
 _Recruitment Team_
+(Apr 2016 – Feb 2017)
 
 - Determination and persistence
 - Ability to work in harmony with co-workers
@@ -115,8 +115,8 @@ _Recruitment Team_
 - Handle complaints and find solutions to these
 
 #### Courtyard Clinic (St George’s Hospital)
-(Nov 2015 – Apr 2016) 
 _Receptionist_
+(Nov 2015 – Apr 2016) 
 
 - Ability to work in harmony with co-workers
 - Sensitivity to patient information and confidentiality
@@ -124,8 +124,8 @@ _Receptionist_
 - Organising and preparing clinics for the week
 
 #### Information Team (St George’s Hospital)
-(Oct 2014 – Nov 2015)
 _Assistant Data Analyst_
+(Oct 2014 – Nov 2015)
 
 - Excellent transferrable analytical skills
 - Close attention to detail 

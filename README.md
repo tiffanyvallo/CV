@@ -2,7 +2,7 @@
 
  | [Projects](#projects) | [Skills](#skills) | [Experience](#experience)  | [Education](#education) |  [Interests](#interests) | [Contact](#contact) |
 
-I am an aspiring Junior Developer. After my whole working life in the NHS, I decided to switch career paths and pursue a career that I would find more fulfilling and satisfying. The tech industry is continuously changing, I find that everyday is a new and exciting challenge that I am eager to take on. 
+I am an aspiring Junior Developer. After my whole working life in the NHS, I decided to switch career paths and pursue a career that I would find more fulfilling and satisfying. As the tech industry is highly innovative and ever changing, I wanted to venture into a career in this industry as everyday is a new and exciting challenge that I am eager to take on. Makers allowed me to gain the skills needed, such as pair programming and Test Driven Development (TDD),  to become an ideal fit and showed me the potential of how exciting and fun a career in software engineering truly is. I have a background in psychology with experience in data management, service operations and recruitment. After working successfully in a number of demanding and time pressured administrative roles within the NHS, I have been able to gain a range of analytical and decisive skills that will enable my expansion and growth into new endeavours. Working hard with efficiency, along with having a friendly and approachable persona are traits I believe are important to my work ethic; enabling me to carry out and delegate tasks, meet deadlines all while building positive relationships with my colleagues. 
 
 ## Projects
 
@@ -14,6 +14,7 @@ I am an aspiring Junior Developer. After my whole working life in the NHS, I dec
 | [Notes](https://github.com/tiffanyvallo/notesApp)|Built a single-page web application using vanilla Javascript that allows users to create notes and see each note individually. Created our own testing framework to allow us to TDD this process and used an external API to integrate the use of emojis.| 1 week | Javascript, Http server, HTML, CSS, Self-made testing framework |
 | [BankTechTest](https://github.com/tiffanyvallo/bankTechTest)| Created a bank account that users can interact with using Node. Users are able to deposit, withdraw, view balance and print a statement of their transactions | 3 days | Javascript, Jest, HTML|
 | [acebook](https://github.com/tiffanyvallo/acebook)|Build a clone of facebook using agile methodology in development teams using Ruby on Rails| 2 weeks | Ruby, Rails, Rspec, Capybara, PostgreSQL, HTML, CSS, JavaScript|
+
 ## Skills
 
 #### Problem Solving
@@ -173,7 +174,7 @@ _Assistant Data Analyst_
 
 ## Interests
 
-I have recently taken up painting and find it relaxing being able to fill a blank canvas with the images you see in your head. I also dwell in a bit of photography, being able to witness and capture the beauty in the world is so fascinating. Other than that, dramas, animes and food pretty much take up the rest of my life.
+I have recently taken up painting and find it relaxing being able to fill a blank canvas with the images you see in your head. I also dwell in a bit of photography, being able to witness and capture the beauty of the world is so fascinating. Other than that, dramas, animes and food pretty much take up the rest of my life.
 
 ## Contact
 - [Github](https://github.com/tiffanyvallo)

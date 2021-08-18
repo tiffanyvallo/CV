@@ -41,6 +41,7 @@ I am an aspiring Junior Developer. After my whole working life in the NHS, I dec
 ## Experience
   
 **Makers** 
+
 (March 2021 – June 2021)
 
 _Full Stack Junior Software Engineer_
@@ -56,6 +57,7 @@ _Full Stack Junior Software Engineer_
 
 
 **Neuroradiology Department (St George's Hospital)** 
+
 (Feb 2020 – March 2021)
 
 _Medical Secretary/Patient Pathway Coordinator_
@@ -68,6 +70,7 @@ _Medical Secretary/Patient Pathway Coordinator_
 
 
 **Paediatric Respiratory (St George’s Hospital)** 
+
 (Dec 2018 – October 2019)
 
 _Data Manager_
@@ -80,6 +83,7 @@ _Data Manager_
 - Created new methodology to help with efficient running of clinics
 
 **Looked After Children's Health Team (St George’s Hospital)** 
+
 (Apr 2018 – Feb 2020)
 
 _Looked After Children's Administrator_
@@ -93,6 +97,7 @@ _Looked After Children's Administrator_
 - Attention to sensitive data and ensuring patient confidentiality is not broken
 
 **General Paediatric Medicine (St George’s Hospital)** 
+
 (Dec 2017 – Apr 2018)
 
 _Medical Secretary_
@@ -102,6 +107,7 @@ _Medical Secretary_
 - Ability to work autonomously and still be able to help with team tasks when needed
 
 **Divisional Director of Operations (St George’s Hospital)** 
+
 (Feb 2017 – Dec 2017)
 
 _Personal Assistant_
@@ -112,6 +118,7 @@ _Personal Assistant_
 - Communicate and liaise with members of staff from various seniority levels.
 
 **Staff Bank Recruitment (St George’s Hospital)** 
+
 (Apr 2016 – Feb 2017)
 
 _Recruitment Team_
@@ -122,6 +129,7 @@ _Recruitment Team_
 - Handle complaints and find solutions to these
 
 **Courtyard Clinic (St George’s Hospital)** 
+
 (Nov 2015 – Apr 2016) 
 
 _Receptionist_
@@ -132,6 +140,7 @@ _Receptionist_
 - Organising and preparing clinics for the week
 
 **Information Team (St George’s Hospital)** 
+
 (Oct 2014 – Nov 2015)
 
 _Assistant Data Analyst_
@@ -143,24 +152,29 @@ _Assistant Data Analyst_
 
 ## Education
 
-#### Makers Academy (March 2021 to June 2021)
+#### Makers Academy
+(March 2021 to June 2021)
 
 - Full Stack Software Engineer
 
-#### Open University (2017)
+#### Open University
+(2017)
 
 - Certificate of Higher Education in Health Sciences
 
-#### TEFL (2015)
+#### TEFL
+(2015)
 
 - 120hr TEFL Certification
 
-#### Anglia Ruskin University (2011 to 2014)
+#### Anglia Ruskin University
+(2011 to 2014)
 
 - Psychology Bsc (Hons)
 - 2:2
 
-#### Wallington High School for Girls (2004 to 2011)
+#### Wallington High School for Girls
+(2004 to 2011)
 
 - A Levels
 - Business/Economics

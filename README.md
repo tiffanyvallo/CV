@@ -44,93 +44,70 @@ I am an aspiring Junior Developer. After my whole working life in the NHS, I dec
 *Full Stack Junior Software Engineer*
 (March 2021 – June 2021)
 
-- Innovative and eager to develop
-- Accountability and ownership of own learning
-- Hard working and efficient
-- Ability to work in harmony with colleagues for group projects and pair programming 
-- sessions using agile methodologies and xp values
+- Hardworking and eager to develop by having accountability and ownership of self-led learning
+- Ability to work in harmony with colleagues for group projects and pair programming sessions using agile methodologies and xp values
 - Use feedback given from coaches, peers and reviews to improve coding
 - Code using a TDD approach
 - Learn new languages quickly and effectively
+- Emotional intelligence and learning about empathy, team work, feedback and having a growth mindset
 
 
 #### Neuroradiology Department (St George's Hospital) 
 _Medical Secretary/Patient Pathway Coordinator_
 (Feb 2020 – March 2021)
 
-- Excellent communication and organisational skill
-- Operations management
-- Ability to help department continue to run even during the covid pandemic
-- Adapts to change quickly
-- Ability to work in harmony with co-workers
+- Operations management -  ensuring the prep for all clinics were completed ensured clinics ran smoothly and efficiently
+- Adaptable to change - implementing the continuous policy changes during the pandemic allowed clinics and the department to continue to run without any issues
 
 
 #### Paediatric Respiratory (St George’s Hospital)
 _Data Manager_
 (Dec 2018 – October 2019)
 
-- Clam and decisive under pressure
-- Determination and persistence
-- Highly organised and detailed-oriented
-- Developing and maintaining all databases within the department
-- Initiative to work individually and as a team
-- Created new methodology to help with efficient running of clinics
+- Calm and decisive under pressure -  created new methodology to help with efficient running of clinics and making sure clinics were running on time
+- Detailed-oriented - developed and maintained all databases within the department to ensure all clinicals were aware of a patient’s current treatment pathway
 
 #### Looked After Children's Health Team (St George’s Hospital)
 _Looked After Children's Administrator_
 (Apr 2018 – Feb 2020)
 
-- Analyse monthly Key Performance Indicators 
-- Operations management
-- Communication with different departments
-- Takes initiative
-- Organising systems that allowed patients to be seen before their breach dates
-- Great time management with an understanding of a sense of urgency
-- Attention to sensitive data and ensuring patient confidentiality is not broken
+- Communication -  liaising with different departments gave me the confidence to be able to communicate well with others to ensure team dynamics were smooth and the work was carried out by the correct people
+- Takes initiative -  understanding the sense of urgency for patients to be seen with a specific time frame allowed me to organise a system to book appointments before breach dates
 
 #### General Paediatric Medicine (St George’s Hospital)
 _Medical Secretary_
 (Dec 2017 – Apr 2018)
 
-- Excellent time management in ensuring all documentations was recorded and sent out efficiently
-- Exceptional verbal and face-to-face customer service
-- Ability to work autonomously and still be able to help with team tasks when needed
+- Excellent time management -  ensuring all documentations was recorded and sent out allowed the department to run efficiently
+- Autonomous working - being able to work on my task and still help with team tasks created smooth team dynamics
+
 
 #### Divisional Director of Operations (St George’s Hospital)
 _Personal Assistant_
 (Feb 2017 – Dec 2017)
 
-- Highly organised and detailed-oriented
-- Adapts to change quickly
-- Ability to work under senior members of staff
-- Communicate and liaise with members of staff from various seniority levels.
+- Ability to work in harmony with co-workers - providing a  number of senior members of staff with the correct information allowed for easy open channels of communication and efficient working
+- Delegate tasks - knowing when to ask for help and delegating tasks to other colleagues to ensure that workflow is not affected by my busy workload
+
 
 #### Staff Bank Recruitment (St George’s Hospital) 
 _Recruitment Team_
 (Apr 2016 – Feb 2017)
 
-- Determination and persistence
-- Ability to work in harmony with co-workers
-- Attention to detail and ensure correct paperwork is filled out and submitted
-- Handle complaints and find solutions to these
+- Complaint handling -  created a system that allowed the pipeline of staff’s paperwork to be monitored effective allowed for ease of finding solutions to complaints and issues staff had regarding their pay and recruitment process
 
 #### Courtyard Clinic (St George’s Hospital)
 _Receptionist_
 (Nov 2015 – Apr 2016) 
 
-- Ability to work in harmony with co-workers
-- Sensitivity to patient information and confidentiality
-- Responsibility in ensuring efficient running of daily clinics
-- Organising and preparing clinics for the week
+- Customer service - providing exceptional verbal and face-to-face service allowed patients to feel in the loop with their treatment plans
+- Organisation -  preparing weekly clinics and patient information ensured that the team and I were able to smoothly run clinics and help with any patient queries
 
 #### Information Team (St George’s Hospital)
 _Assistant Data Analyst_
 (Oct 2014 – Nov 2015)
 
-- Excellent transferrable analytical skills
-- Close attention to detail 
-- Extracting correct data for different departments
-- Work in tight timeframes to ensure all relevant data for different meetings were provided
+- Excellent transferrable analytical skills - entered, captured and presented from the trust outlook database allowed me to develop an eye for detail and create a habit of ensuring my work is correct all whilst working on a tight deadline submission
 
 ## Education
 

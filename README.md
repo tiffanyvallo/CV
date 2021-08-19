@@ -134,7 +134,7 @@ _Assistant Data Analyst_
 
 ## Interests
 
-I have recently taken up painting and find it relaxing being able to fill a blank canvas with the images you see in your head. I also dwell in a bit of photography, being able to witness and capture the beauty of the world is so fascinating. Other than that, dramas, animes and food pretty much take up the rest of my life.
+I have recently taken up painting and find it relaxing being able to fill a blank canvas with the images you see in your head. I also enjoy a bit of photography, being able to witness and capture the beauty of the world is so fascinating. Other than that, dramas, animes and food pretty much take up the rest of my life.
 
 ## Contact
 - [Github](https://github.com/tiffanyvallo)

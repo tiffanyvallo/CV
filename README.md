@@ -130,20 +130,7 @@ _Assistant Data Analyst_
 (2011 to 2014)
 
 - Psychology Bsc (Hons)
-- 2:2
 
-#### Wallington High School for Girls
-(2004 to 2011)
-
-- A Levels
-- Business/Economics
-- Maths
-- Psychology
-- Grades B - D
-
-- GCSE
-- 13 including English, Maths and Sciences
-- Grades A - B
 
 ## Interests
 

@@ -19,7 +19,7 @@ I am an aspiring Junior Developer. After my whole working life in the NHS, I dec
 
 #### Problem Solving
 
-- Working in the NHS, you are faced with a wide range of queries on a daily basis. I have been faced with queries from finding out appointment dates, to figuring out staff's pay, and everytime I have been able to investigate and solve all these issues. Being also helped with finding different solutions on how you can tackle the problem in front of you. At Makers, trying to figure out how to debugging was a good problem solving challenge, and it became really fun trying to think of different approaches to solve the errors I would get in my coding.
+- Working in the NHS, you are faced with a wide range of queries on a daily basis. I used my natural skills of problem solving to figure out any quires from finding out appointment dates, to figuring out staff's pay, and have been successful at finding solutions every single time. At Makers, trying to figure out how to debug was a good problem solving challenge, and it became really fun trying to think of different approaches to solve the errors I would get in my coding.
 
 #### Teamwork
 

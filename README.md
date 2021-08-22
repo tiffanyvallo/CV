@@ -19,15 +19,15 @@ I am an aspiring Junior Developer. After my whole working life in the NHS, I dec
 
 #### Problem Solving
 
-- Working in the NHS, you are faced with a wide range of queries on a daily basis. I used my natural skills of problem solving to figure out any quires from finding out appointment dates, to figuring out staff's pay, and have been successful at finding solutions every single time. At Makers, trying to figure out how to debug was a good problem solving challenge, and it became really fun trying to think of different approaches to solve the errors I would get in my coding.
+- Working in the NHS, you are faced with a wide range of queries on a daily basis. I have been faced with queries from finding out appointment dates, to figuring out staff's pay, and everytime I have been able to investigate and solve all these issues. Being also helped with finding different solutions on how you can tackle the problem in front of you. At Makers, trying to figure out how to debugging was a good problem solving challenge, and it became really fun trying to think of different approaches to solve the errors I would get in my coding.
 
 #### Teamwork
 
-- All my previous job roles entailed me working within a team. From this I have been able to learn that relying on each other to complete tasks is crucial. Whether it is covering a colleague's workload when they are on leave, or informing one another which stage you have reached in terms of a patient's records. Organisation and communication also help in ensuring everyone on the team is able to do their work and allow for a smooth workflow. I found that I really excelled and enjoyed contributing to group projects during the Makers course.
+- All my previous job roles required me to work within a team. From this I have been able to learn that teamwork is crucial to complete certain tasks. My organisation and ease of communication helped in ensuring everyone on the team be able to do their work, allow for a smooth workflow, and ensured that the team dynamics ran without any hitches; whether it was covering a colleague's workload when they were on leave, or informing one another which stage you had reached in terms of a patient's records.  I found that I really excelled and enjoyed contributing to group projects during the Makers course, and found myself wanting to contribute as much as I can to all the group projects.
 
 #### Attention to detail
 
-- I have developed good attention to detail. During several of my roles in the NHS I noticed how there was a lack of systems put in place to ensure efficient running of services. I create a number of systems that allow my colleagues and myself to easily log and search the pipeline of patient's referrals or staff's recruitment process. These tasks were the starting point of my interest in the tech industry. This really helped during project planning stages and code debugging.
+- I have developed an innate ability to identify and notice gaps within the systems I use. During several of my roles in the NHS I noticed how there was a lack of systems put in place to ensure efficient running of services. I create a number of systems that allow my colleagues and myself to easily log and search the pipeline of patient's referrals or staff's recruitment process. These tasks were the starting point of my interest in the tech industry. Seeing gaps in your workflow and finding a tech solution to those gaps made me want to dive deeper into what I could learn to become part of this innovative tech industry. This really helped during project planning stages and code debugging.
 
 #### Adaptable
 
@@ -35,8 +35,7 @@ I am an aspiring Junior Developer. After my whole working life in the NHS, I dec
 
 #### Learning New Concepts
 
-- Makers have allowed me to rapidly pick up the skill and techniques to learn new concepts. During a two week period,  I was able to learn JavaScript and a new testing framework, all while trying to create a thermostat and notes application. This approach has helped me with my understanding and confidence of how to pick up new languages efficiently. Also throughout the whole course, we were given new concepts on how to write, understand and improve our code weekly. This was helpful as it allowed me to effectively figure out how to improve as a developer. 
-
+- Makers have allowed me to rapidly pick up the skill and techniques to learn new concepts. During a two week period,  I was able to learn JavaScript and a new testing framework, all while trying to create a thermostat and notes application. Being disciplined with my self-led learning, having a growth mindset and a positive outlook and being open to all the opportunities, has helped me with my understanding and confidence of how to pick up new languages efficiently. Also throughout the whole course, we were given new concepts on how to write, understand and improve our code weekly, along with the above mentioned emotional intelligence skills. This was helpful as it allowed me to effectively figure out how to improve as a developer.
 
 ## Experience
   
@@ -134,7 +133,7 @@ _Assistant Data Analyst_
 
 ## Interests
 
-I have recently taken up painting and find it relaxing being able to fill a blank canvas with the images you see in your head. I also enjoy a bit of photography, being able to witness and capture the beauty of the world is so fascinating. Other than that, dramas, animes and food pretty much take up the rest of my life.
+I have recently taken up painting and find it relaxing being able to fill a blank canvas with the images you see in your head. I also enjoy a bit of photography, being able to witness and capture the beauty of the world is so fascinating. Other than that, dramas, anime and food pretty much take up the rest of my life.
 
 ## Contact
 - [Github](https://github.com/tiffanyvallo)

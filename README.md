@@ -2,36 +2,36 @@
 
  | [Projects](#projects) | [Skills](#skills) | [Experience](#experience)  | [Education](#education) |  [Interests](#interests) | [Contact](#contact) |
 
-I am an aspiring Junior Developer. After my whole working life in the NHS, I decided to switch career paths and pursue a career that I would find more fulfilling and satisfying. As the tech industry is highly innovative and ever changing, I wanted to venture into a career in this industry as everyday is a new and exciting challenge that I am eager to take on. Makers allowed me to gain the skills needed, such as pair programming and Test Driven Development (TDD),  to become an ideal fit and showed me the potential of how exciting and fun a career in software engineering truly is. I have a background in psychology with experience in data management, service operations and recruitment. After working successfully in a number of demanding and time pressured administrative roles within the NHS, I have been able to gain a range of analytical and decisive skills that will enable my expansion and growth into new endeavours. Working hard with efficiency, along with having a friendly and approachable persona are traits I believe are important to my work ethic; enabling me to carry out and delegate tasks, meet deadlines all while building positive relationships with my colleagues. 
-
+Graduating from Makers with a background in psychology and experience in data management, service operations and recruitment,  I have been exposed to the potential of how exciting a career in software engineering truly is. I was fascinated by my innate ability to notice gaps in the departments I had worked at and wanting to create tech solutions to these, which further intrigues me to want to dive deeper into what more can I learn from this innovative Tech industry. In just a short time, I have enjoyed how fun, mentally stimulating, the number of opportunities you have, problem solving and the impact of the skills you use can really thrive in the tech industry.
+ 
 ## Projects
 
 | Project   | Description | Timeframe | Technologies |
 |-----------|-------------|-----------|--------------|
 | [shuttr](https://github.com/tiffanyvallo/shuttr)|Built an innovative app for the creatives who love to take aesthetic photos but did not know where the prime locations were. Created using a MERN tech stack | 2 weeks |MongoDB, Express, React, Node.js, CSS, HTML, APIs (Google Maps,Mapbook,React Map GL,Cloudinary,Unsplash), Material-Ui, Passport.js, BCrypt, Yarn|
 | [MakersBnB](https://github.com/tiffanyvallo/in_the_airbnb_tonight)|Created a full-stack web application clone of AirBnb in a group of four, that allows users to list spaces they have available and to hire spaces for the night. | 1 week | Ruby, Rspec, HTML, CSS, PostgreSQL, Sinatra, Capybara|
-| [Chitter](https://github.com/tiffanyvallo/chitter-ruby)| Built a clone of Twitter that allows users to sign up, login, log out and create and view peeps. | 2 days | Ruby, Rspec, HTML, CSS, PostgreSQL, Sinatra, Capybara|
 | [Notes](https://github.com/tiffanyvallo/notesApp)|Built a single-page web application using vanilla Javascript that allows users to create notes and see each note individually. Created our own testing framework to allow us to TDD this process and used an external API to integrate the use of emojis.| 1 week | Javascript, Http server, HTML, CSS, Self-made testing framework |
 | [BankTechTest](https://github.com/tiffanyvallo/bankTechTest)| Created a bank account that users can interact with using Node. Users are able to deposit, withdraw, view balance and print a statement of their transactions | 3 days | Javascript, Jest, HTML|
 | [acebook](https://github.com/tiffanyvallo/acebook)|Build a clone of facebook using agile methodology in development teams using Ruby on Rails| 2 weeks | Ruby, Rails, Rspec, Capybara, PostgreSQL, HTML, CSS, JavaScript|
+| [Twitter](https://github.com/tiffanyvallo/twitterJava)| Create a clone of Twitter that allows users to sign up, login, logout, create and view peeps in Java with Spring | In Progress | Java, JUnit, Spring, HTML, CSS |
 
 ## Skills
-
-#### Problem Solving
-
-- Working in the NHS, you are faced with a wide range of queries on a daily basis. I have been faced with queries from finding out appointment dates, to figuring out staff's pay, and everytime I have been able to investigate and solve all these issues. Being also helped with finding different solutions on how you can tackle the problem in front of you. At Makers, trying to figure out how to debugging was a good problem solving challenge, and it became really fun trying to think of different approaches to solve the errors I would get in my coding.
-
-#### Teamwork
-
-- All my previous job roles required me to work within a team. From this I have been able to learn that teamwork is crucial to complete certain tasks. My organisation and ease of communication helped in ensuring everyone on the team be able to do their work, allow for a smooth workflow, and ensured that the team dynamics ran without any hitches; whether it was covering a colleague's workload when they were on leave, or informing one another which stage you had reached in terms of a patient's records.  I found that I really excelled and enjoyed contributing to group projects during the Makers course, and found myself wanting to contribute as much as I can to all the group projects.
 
 #### Attention to detail
 
 - I have developed an innate ability to identify and notice gaps within the systems I use. During several of my roles in the NHS I noticed how there was a lack of systems put in place to ensure efficient running of services. I create a number of systems that allow my colleagues and myself to easily log and search the pipeline of patient's referrals or staff's recruitment process. These tasks were the starting point of my interest in the tech industry. Seeing gaps in your workflow and finding a tech solution to those gaps made me want to dive deeper into what I could learn to become part of this innovative tech industry. This really helped during project planning stages and code debugging.
+#### Problem Solving
+
+- Having worked in the NHS, I have been faced with a wide range of issues to solve, whether it be finding out appointment dates or figuring out staff's pay, and everytime I have been successful at using my natural problem solving skills to investigate and find different solutions to tackle any problem. At Makers, debugging presented as a way to problem solve, and it had become really fun trying out different approaches to solve the errors that would arise when I would code.
+
+
+#### Teamwork
+
+- All my previous job roles required me to work within a team. From this I have been able to learn that teamwork is crucial to complete certain tasks. My organisation and ease of communication helped in ensuring everyone on the team be able to do their work, allow for a smooth workflow, and ensured that the team dynamics ran without any hitches; whether it was covering a colleague's workload when they were on leave, or informing one another which stage you had reached in terms of a patient's records.  I found that I really excelled and enjoyed contributing to group projects during the Makers course, and found myself wanting to contribute as much as I can to all the group projects. I have also been a mentor to other Makers, I have found that this has been really helpful in ensuring we all get the most out of the Makers experience and help each other to contribute to the teams we were in. Not only has it made me a better team player, but has allowed me to step back from situations and assess what has happened with a bigger picture approach. This in turn has allowed me to give advice to my mentees that help not only their development but also the development of the team they were in.
 
 #### Adaptable
 
-- As I had previously worked in the NHS, the nature of the job was always fast, and so I have been able to adapt to the ever changing needs of the department and the patients, to ensure that all day to day operations would run smoothly. Throughout Makers I had to learn new languages and testing frameworks in an efficient manner all while building applications. This was challenging but allowed me to rise to the occasion and get a feel for how as a developer, you need to be comfortable with change and learning to adapt to whatever situation is given to you. With new pairing programming sessions daily, different teams and new challenges weekly, I was able to push myself to learn to adapt and help create good team dynamics to allow us to create the best application we could produce.  
+- Working in the hospital, the nature of the job was always very fast paced, and so I have been able to adapt to the ever changing needs of the department and the patients to ensure that all day to day operations would run smoothly. Throughout Makers I had to learn new languages and testing frameworks in an efficient manner all while building applications. This was challenging but allowed me to rise to the occasion and get a feel for how as a developer, you need to be comfortable with change and learning to adapt to whatever situation is given to you. With new pairing programming sessions daily and different teams and new challenges weekly, I was able to push myself to learn to adapt and help create good team dynamics which allow the team and I to create the best applications we could produce.  
 
 #### Learning New Concepts
 
